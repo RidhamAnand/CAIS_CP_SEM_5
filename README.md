@@ -509,19 +509,4 @@ Before submitting a PR, ensure:
 - File integrity checks detect tampering
 - Frontend handles errors gracefully
 
-## License
-
-This project is part of academic coursework for CAIS (Cryptography and Information Security).
-
-## Acknowledgments
-
-- Stegano library for LSB image steganography
-- Cryptography library for Fernet implementation
-- Firebase for authentication infrastructure
-- OpenCV for video processing capabilities
-
-## Contact
-
-For questions or issues, please open an issue in the repository.
-
 ---
