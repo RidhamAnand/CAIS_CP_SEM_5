@@ -525,5 +525,3 @@ This project is part of academic coursework for CAIS (Cryptography and Informati
 For questions or issues, please open an issue in the repository.
 
 ---
-
-**Note**: This system is designed for educational purposes to demonstrate steganography and cryptography concepts. For production use, additional security hardening would be required.
